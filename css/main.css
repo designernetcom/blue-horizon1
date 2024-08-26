@@ -11075,3 +11075,18 @@ body.is-cursor-active * {
     -webkit-backdrop-filter: blur(10px) !important;
     backdrop-filter: blur(10px) !important;
 }
+.ft-icon i {
+  background-color: white;
+  padding: 5px;
+  color: blue;
+}
+.icon-facebook {
+  color: #05073C;
+  padding: 5px 10px;
+}
+.icon-instagram {
+  color: #ca0326 !important;
+}
+.fa-whatsapp {
+  color: green !important;
+}
